@@ -1,5 +1,8 @@
 # Celebrity Look-Alike Finder
 
+Designed and implemented a deep learning–powered facial similarity prediction system using FaceNet embeddings, DeepFace, and cosine similarity to accurately match uploaded images with visually similar celebrities from a custom dataset, achieving confidence scores of up to 90%. • Built an interactive Streamlit web application featuring image upload, top-k celebrity matching, confidence scoring, and real-time face analysis using precomputed embeddings for fast and efficient inference. 
+
+
 A Streamlit application that compares a user's uploaded face with
 precomputed celebrity face embeddings and displays the closest match.
 
