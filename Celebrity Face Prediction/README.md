@@ -128,6 +128,9 @@ contains supported image files.
 Try a clear, well-lit, front-facing JPG or PNG image with one visible
 face.
 
+
+
+
 ## Limitations and responsible use
 
 This project is a demonstration of face-embedding similarity, not a
@@ -136,3 +139,9 @@ establish identity, relationship, ethnicity, or any other personal
 attribute. Avoid using its output for consequential decisions. Only use
 images you have permission to process, and handle uploaded photos and
 biometric embeddings carefully.
+
+
+
+
+#LAST THING: IF YOU WANT MORE CONFIDENCE SCORE, ADD MORE IMAGES(FOLDERS) TO THE DATASET AKA Faces.rar
+#DO ADD YOUR OWN DATASET 
